@@ -1,0 +1,2 @@
+# stresserddos
+Ddos python
